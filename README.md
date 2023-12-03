@@ -1,11 +1,11 @@
 
-### Hi there 👋
-<img src="https://github.com/akash-salvi/Akash-Salvi/raw/master/Hello(1).gif" width="">
+### Hi there 👋 <img src="https://github.com/akash-salvi/Akash-Salvi/raw/master/Hello(1).gif" width=""> <br/><br/> Toniya
 
-
-👨‍🎓 I am Toniya, currently persuing B.S in **Computer Science graduate from UC Davis** <br/>
-🌱 I’m currently learning **Python,Tablue, & App development**<br />
-💻 I'm a **Full-Stack Web Developer and UI enthusiast** <br/>
+👨‍🎓 I am, currently persuing B.S in **Computer Science graduate from UC Davis** <br/>
+🌱 Now learning **Python,Tablue, & App development**<br />
+💻 I'm a **Web Developer and UI enthusiast** <br/>
+👯 Always looking to collaborate on real world projects especially dealing with **large, Ai centric development, innovative use cases** <br/>
+🤔 I’m looking for help with **summer internships and learning opportunity projects** <br/>
 💬 Ask me about **India, UI Design, University life, Coding concepts** <br/>
 ⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up<br/>
 
