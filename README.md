@@ -23,6 +23,31 @@
 
 |<img src="https://github-readme-stats.vercel.app/api?username=tbpatil&&show_icons=true&title_color=ff930a&icon_color=ff930a&text_color=000&bg_color=#fff" alt="my github stats" width="420"> |<img src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Salvi"/>|
 |---|---|
+
+## Connect With Me
+ <!-- <a href="https://akash-salvi.github.io/">
+    <img align="left" alt="Akash's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
+  </a> -->
+  <a href="https://www.linkedin.com/in/toniya">
+    <img align="left" alt="Akash's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+  </a>
+  <a href="https://github.com/tbpatil">
+    <img align="left" alt="Akash's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+  </a>
+  
+  <!--
+  <a href="https://leetcode.com/akashnov100/">
+    <img align="left" alt="Akash's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  </a>    
+  <a href="https://www.codechef.com/users/shaggy420">
+    <img align="left" alt="Akash's Codechef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />
+  </a>     
+  <a href="https://www.hackerrank.com/akashsalvi21">
+    <img align="left" alt="Akash's HackerRank" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
+  </a>
+-->
+  
+  <br />
  
 
 
