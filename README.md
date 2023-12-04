@@ -1,13 +1,13 @@
 
 ### Hi there 👋 <img src="https://github.com/akash-salvi/Akash-Salvi/raw/master/Hello(1).gif" width=""> <br/><br/> Toniya
 
-👨‍🎓 I am, currently pursuing B.S in **Computer Science graduate from UC Davis** <br/>
+👨‍🎓 I am currently pursuing B.S in **Computer Science from UC Davis** <br/>
 🌱 Now learning **Python,Tableau, & App development**<br />
 💻 I'm a **Web Developer and UI enthusiast** <br/>
-👯 Always looking to collaborate on real-world projects especially dealing with **large, Ai centric development, innovative use cases** <br/>
-🤔 I’m looking for help with **summer internships and learning opportunity projects** <br/>
+👯 Always looking to collaborate on real-world projects especially dealing with **large, AI-centric development, innovative use cases** <br/>
+🤔 I’m looking for **Summer 2024 Internships and Learning Opportunity Projects** <br/>
 💬 Ask me about **India, UI Design, University life, Coding concepts** <br/>
-⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up<br/>
+⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up :)<br/>
 
 
 ## </> Languages & 🛠 Tools I work upon :
@@ -29,10 +29,10 @@
     <img align="left" alt="Akash's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a> -->
   <a href="https://www.linkedin.com/in/toniya">
-    <img align="left" alt="Akash's Linkdein" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+    <img align="left" alt="Toniya's Linkedin" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <a href="https://github.com/tbpatil">
-    <img align="left" alt="Akash's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+    <img align="left" alt="Toniya's Github" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
   
   <!--
