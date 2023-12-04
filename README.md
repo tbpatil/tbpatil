@@ -2,7 +2,7 @@
 ### Hi there 👋 <img src="https://github.com/akash-salvi/Akash-Salvi/raw/master/Hello(1).gif" width=""> <br/><br/> Toniya
 
 👨‍🎓 I am currently pursuing B.S in **Computer Science from UC Davis** <br/>
-🌱 Now learning **Python,Tableau, & App development**<br />
+🌱 Now learning **Python, Tableau, and App development**<br />
 💻 I'm a **Web Developer and UI enthusiast** <br/>
 👯 Always looking to collaborate on real-world projects especially dealing with **large, AI-centric development, innovative use cases** <br/>
 🤔 I’m looking for **Summer 2024 Internships and Learning Opportunity Projects** <br/>
