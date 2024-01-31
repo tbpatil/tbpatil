@@ -6,7 +6,7 @@
 💻 I'm a **Web Developer and UI enthusiast** <br/>
 👯 Always looking to collaborate on real-world projects especially dealing with **large, AI-centric development, innovative use cases** <br/>
 🤔 I’m looking for **Summer 2024 Internships and Learning Opportunity Projects** <br/>
-💬 Ask me about **India, UI Design, University life, Coding concepts** <br/>
+💬 Ask me about **India, UI/UX Design, University life, or Coding concepts** <br/>
 ⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up :)<br/>
 
 
