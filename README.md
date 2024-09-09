@@ -30,7 +30,7 @@ Badge repository - https://res.cloudinary.com/practicaldev/image/fetch/s--2D1p1B
 |---|---|
 
 ## Connect With Me
- <!-- <a href="https://akash-salvi.github.io/">
+ <!-- <a href="https://github.com/tbpatil">
     <img align="left" alt="Akash's Portfolio" width="26px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />
   </a> -->
   <a href="https://www.linkedin.com/in/toniya">
@@ -41,7 +41,7 @@ Badge repository - https://res.cloudinary.com/practicaldev/image/fetch/s--2D1p1B
   </a>
   
   <!--
-  <a href="https://leetcode.com/akashnov100/">
+  <a href="https://leetcode.com/u/tbpatil19/">
     <img align="left" alt="Akash's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
   </a>    
   <a href="https://www.codechef.com/users/shaggy420">
