@@ -5,8 +5,8 @@
 🌱 Now learning **Python, Tableau, and App development**<br />
 💻 I'm a **Web Developer and UI enthusiast** <br/>
 👯 Always looking to collaborate on real-world projects especially dealing with **large, AI-centric development, innovative use cases** <br/>
-🤔 I’m looking for **Fall, Winter Internships or New Grad Roles in June 2025 Learning Opportunity Projects** <br/>
-💬 Ask me about **India, UI/UX Design, University life, or Coding concepts** <br/>
+🤔 I’m looking for **New Grad Roles in June 2025** <br/>
+💬 Ask me about **UI/UX Design, University life, or Coding concepts** <br/>
 ⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up :)<br/>
 
 
