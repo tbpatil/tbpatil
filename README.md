@@ -1,13 +1,13 @@
 
 ### Hi there 👋 <img src="https://github.com/akash-salvi/Akash-Salvi/raw/master/Hello(1).gif" width=""> <br/><br/> Toniya
 
-👨‍🎓 I am currently pursuing B.S in **Computer Science from UC Davis** <br/>
-🌱 Now learning **Python, Tableau, and App development**<br />
-💻 I'm a **Web Developer and UI enthusiast** <br/>
-👯 Always looking to collaborate on real-world projects especially dealing with **large, AI-centric development, innovative use cases** <br/>
-🤔 I’m looking for **New Grad Roles in June 2025** <br/>
-💬 Ask me about **UI/UX Design, University life, or Coding concepts** <br/>
-⚡ Fun fact: Did you know some coders are also **Karate black belt** holders, if you have not met any, hit me up :)<br/>
+👨‍🎓 I am a **Computer Science graduate from UC Davis**, with a minor in **Economics** <br/>
+🌱 Currently building skills in **AI/ML development, Product Marketing, and Data-driven storytelling** <br/>
+💻 I’m an **AI/ML-focused developer with a strong interest in product and user-centric design** <br/>
+👯 Always looking to collaborate on **real-world projects**, especially those involving **AI-driven systems, scalable products, and innovative use cases** <br/>
+🤔 I’m actively seeking **New Grad / Early-Career Roles in AI, ML, or Product Engineering** <br/>
+💬 Ask me about **AI/ML concepts, product thinking, UI/UX, or transitioning from university to industry** <br/>
+⚡ Fun fact: Some coders are also **Karate black belt** holders — if you haven’t met one yet, hit me up :) <br/>
 
 
 ## </> Languages & 🛠 Tools I work upon :
